@@ -1,6 +1,6 @@
 
 
-\# DIO | Resumos Git e GitHub
+\# DIO | Resumos Git e GitHub 2 |
 
 
 
@@ -28,7 +28,9 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento C�
 
 | Gravando alterações no Repositório Local  | \[Resumo] (www.google.com.br)  |
 
-| Content Cell  | Content Cell  |
+| Aulas | Resumos |
+|-------|--------|
+|Aula 01 | [Resumo] () |
 
 
 
