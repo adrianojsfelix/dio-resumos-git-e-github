@@ -26,7 +26,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento C�
 
 | ------------- | ------------- |
 
-| Gravando alterações no Repositório Local  | \[Resumos] (www.google.com.br)  |
+| Gravando alterações no Repositório Local  | \[Resumo] (www.google.com.br)  |
 
 | Content Cell  | Content Cell  |
 
